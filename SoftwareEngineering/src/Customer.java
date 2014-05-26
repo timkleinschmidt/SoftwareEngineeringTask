@@ -229,5 +229,4 @@ class Customer {
 				"</EM> frequent renter points<P>"; 
 		return result; 
 	}
-
 }
